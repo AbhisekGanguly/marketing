@@ -5,6 +5,8 @@ Structure for each Reel: **Hook (0–2s) → Setup (2–5s) → Value (5–25s) 
 
 Use these as beats, not word‑for‑word teleprompter scripts.
 
+*TEXT FOR MANSI*
+
 ---
 
 ## Reel 1 — Week 1 Mon: Why most “growth” feels chaotic
